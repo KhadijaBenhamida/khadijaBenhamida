@@ -10,7 +10,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open source, and buil
 - 🎯 Focused on improving my skills in machine learning, data analysis, and full-stack development.
 
 ## Tech Stack
--🧠 Machine Learning: ML(Supervised/Unsupervised), Deep Learning , Scikit-learn, Keras
+- 🧠 Machine Learning: ML(Supervised/Unsupervised), Deep Learning , Scikit-learn, Keras
+- 💻 Languages: Python, JavaScript,Java
 - 💻 Languages: Python, JavaScript,Java
 - 🚀 Frameworks: React, TensorFlow/Keras, Spring Boot
 - 🌐 Frontend: HTML, CSS, Bootstrap
